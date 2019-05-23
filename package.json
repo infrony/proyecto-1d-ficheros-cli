@@ -1,0 +1,35 @@
+{
+  "name": "cli-file-creator",
+  "version": "1.0.0",
+  "description": "Poryecto CLI para generar ficheros de manera facil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infrony/proyecto-1d-ficheros-cli.git"
+  },
+  "keywords": [
+    "rb",
+    "js",
+    "ts",
+    "kt",
+    "java",
+    "cli generator",
+    "crear ficheros"
+  ],
+  "author": "Rodney Guillen <infrony@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infrony/proyecto-1d-ficheros-cli/issues"
+  },
+  "homepage": "https://github.com/infrony/proyecto-1d-ficheros-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1",
+    "shelljs": "^0.8.3"
+  },
+  "bin": "./index.js"
+}
