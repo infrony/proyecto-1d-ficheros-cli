@@ -1,5 +1,5 @@
 {
-  "name": "cli-file-creator",
+  "name": "cli-file-creator-infrony",
   "version": "1.0.0",
   "description": "Poryecto CLI para generar ficheros de manera facil",
   "main": "index.js",
